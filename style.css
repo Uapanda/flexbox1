@@ -8,25 +8,25 @@
     width:100px;
     height:100px;
     border:1px solid;
-    background: rgb(254, 0, 0);
+    background: rgb(0, 247, 49);
 }
 .A3{
     width:100px;
     height:100px;
     border:1px solid;
-    background: rgb(0, 242, 97);
+    background: rgb(238, 255, 2);
 }
 .A4 {
     width:100px;
     height:100px;
     border:1px solid;
-    background: yellow;
+    background: rgb(17, 255, 0);
 }
 .A5{
     width:100px;
     height:100px;
     border:1px solid;
-    background: rgb(254, 0, 0);
+    background: rgb(238, 255, 0);
 }
 .A6{
     width:100px;
@@ -45,7 +45,7 @@
     width:100px;
     height:100px;
     border:1px solid;
-    background: rgb(254, 0, 0);
+    background: rgb(0, 255, 76);
 }
 
 .wrapper{
